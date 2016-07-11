@@ -4,7 +4,7 @@ Funny recursive pictures written in Python 2 using Pygame module
 You can explore Julia set for different parameters by moving mouse over Mandelbrot set. 
 Bright parts of last one is parameter C, for wich Julia converge.
 
-![](http://pic1)  
+![](https://raw.githubusercontent.com/sleeping-h/fractals/master/images/julia.gif)  
 
 Rendering is very slow. I used escape time algorithm with some modifications for faster color calculation.
 
@@ -12,6 +12,6 @@ Rendering is very slow. I used escape time algorithm with some modifications for
 It's almost classical Pytharoras tree but with slightly different proportions. 
 Right angle between two adjacent branches of the same level is preserved.
 
-![](http://pic2)  
+![](https://raw.githubusercontent.com/sleeping-h/fractals/master/images/tree.gif)  
 
 
